@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayoub El Bahti</h1>
 <h3 align="center">👀 Passionate about Full-Stack Development and process automation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubelbahti&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubelbahti" /> </p>
-
 - 🔭 I’m currently working on **Innovative projects in React.js and Django**
 
 - 📫 How to reach me **ayoubelbahti6@gmail.com**
