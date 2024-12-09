@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub El Bahti</h1>
-<h3 align="center">👀 Passionate about Full-Stack Development and process automation</h3>
+<h3 align="center">👀 Passionate about Full-Stack Development , Web Scraping and  process automation</h3>
 
 - 🔭 I’m currently working on **Innovative projects in React.js and Django**
 
